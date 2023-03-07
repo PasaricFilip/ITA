@@ -26,3 +26,8 @@ MICROSERVICE 2 : DRIVE MICROSERVICE
 -Delete
 -Select/Select all
 
+Non-Functional requirement : 
+-Safety : passwords need to be protected
+-Logical : users need to follow certain logistics
+-24/7 service : the app must run at all times
+
